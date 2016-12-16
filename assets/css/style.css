@@ -1,0 +1,22 @@
+body {
+
+	color:white;
+}
+html {
+
+background-image: url(../images/halo5.jpg);
+height: 100%;
+width: 100%;
+background-position: center;
+float:left;
+}
+
+
+#container {
+float:right;
+font-size: 30;
+background-color: black;
+
+height: 100%;
+width: 100%;
+}
